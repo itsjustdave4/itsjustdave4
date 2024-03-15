@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsjustdave4
-- 👀 I’m interested in develop coding skills, biking 
+- 👀 I’m interested in develop coding skills, biking and gaming
 - 🌱 I’m currently learning python, sql, json/yaml/csv/etc, linux
-- 📬 contact me via mail itsjustdave4@gmail.com
+- 📬 contact me via mail: itsjustdave4@gmail.com
 
 <!---
 itsjustdave4/itsjustdave4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
