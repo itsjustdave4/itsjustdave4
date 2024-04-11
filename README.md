@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @itsjustdave4
 - 👀 I’m interested in develop coding skills, biking and gaming
 - 🌱 I’m currently learning python, sql, json/yaml/csv/etc, linux
+- 💻 Looking for a job as a software engineer
 - 📬 Contact me via mail: itsjustdave4@gmail.com
 
 <!---
